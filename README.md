@@ -2,6 +2,10 @@
 
 Built from https://github.com/TheQmaks/phantom-frida
 
+## Info
+
+Default port has been changed to 10067 and symbol names have been changed from "frida" to "banana"
+
 ## Usage
 
 ```
